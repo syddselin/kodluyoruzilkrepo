@@ -31,3 +31,20 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ![Proje](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+
+## Veri Yapıları ve Algoritmalar
+### Insertion Sort Projesi
+* proje 1
+* 
+**1
+[22,27,16,2,18,6]
+[2,27,16,22,18,6]
+[2,6,16,22,18,27]
+[2,6,16,18,22,27]
+
+**2
+O(n^2)
+
+**3 
+Average case
+
