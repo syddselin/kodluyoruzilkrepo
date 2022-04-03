@@ -35,7 +35,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Veri Yapıları ve Algoritmalar
 ### Insertion Sort Projesi
 ---
-* proje 1
+### proje 1
 ---
 1-
 [22,27,16,2,18,6]
